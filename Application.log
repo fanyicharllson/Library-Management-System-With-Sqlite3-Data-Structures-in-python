@@ -1,0 +1,17 @@
+INFO: 2024-09-04 20:07:14,641: Library Management System started...
+INFO: 2024-09-04 20:09:05,129: Connected to database at C:/Users/NTECH/OneDrive/Desktop/CREATED DATABASES/member.db successfully
+INFO: 2024-09-04 20:09:33,510: Member signed in successfully.
+DEBUG: 2024-09-04 20:09:33,510: Entering Member interface........
+INFO: 2024-09-04 20:09:36,663:  Database connection established at C:/Users/NTECH/OneDrive/Desktop/CREATED DATABASES/book.db in library.py file
+INFO: 2024-09-04 20:09:44,356:  Database connection established at C:/Users/NTECH/OneDrive/Desktop/CREATED DATABASES/borrowed.db in library.py file
+WARNING: 2024-09-04 20:09:44,357: Moris borrow failed!
+INFO: 2024-09-04 20:10:00,842: Connected to database at C:/Users/NTECH/OneDrive/Desktop/CREATED DATABASES/member.db successfully
+INFO: 2024-09-04 20:16:15,497: Member signed in successfully.
+DEBUG: 2024-09-04 20:16:15,497: Entering Member interface........
+INFO: 2024-09-04 20:16:19,614:  Database connection established at C:/Users/NTECH/OneDrive/Desktop/CREATED DATABASES/book.db in library.py file
+ERROR: 2024-09-04 20:16:46,905: Book borrowing failed: Book Econs not found.
+INFO: 2024-09-04 20:17:52,074: Application ended by the user.
+DEBUG: 2024-09-04 20:17:52,074: Library Management System ended.
+INFO: 2024-09-05 20:17:06,256: Library Management System started...
+INFO: 2024-09-05 20:17:09,625: Application ended by the user.
+DEBUG: 2024-09-05 20:17:09,625: Library Management System ended.
